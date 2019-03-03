@@ -43,11 +43,11 @@ footer
 /*font*/
  @import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700,900');
 
-/*general*/
-body {
+/*general*/  
+body { 
 	font-family: 'Roboto', sans-serif;
 	color: #686868;
-	background-color: #fafafa;
+	background-color: #462020;
 	font-size: 13px;
 }
 
