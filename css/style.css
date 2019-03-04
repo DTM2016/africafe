@@ -321,13 +321,13 @@ a.link-color:hover {
 
 /*slide*/
 .slide {
-	height: 230px;
+	height: 200px;   /* 230px; */
 	margin-bottom: 15px;
 	/* margin-top: 50px; */
 }
 
 .slide .slide-content {
-	height: 230px;
+	height: 200px;
 	background: #fff;
 }
 
