@@ -385,19 +385,19 @@ a.link-color:hover {
 	margin-top: 5px;
 }
 
-.slide .owl-theme .owl-nav.disabled + .owl-dots {
+.slide .owl-theme .owl-nav.disabled + .owl-Xdots {
 	position: relative;
 	top: -35px;
 	margin-bottom: -36px;
 }
 
-.slide .owl-theme .owl-dots .owl-dot span {
+.slide .owl-theme .owl-Xdots .owl-dot span {
 	width: 7px;
 	height: 7px;
 	background-color: #fff;
 }
 
-.slide .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+.slide .owl-theme .owl-X`dots .owl-dot.active span, .owl-theme .owl-Xdots .owl-dot:hover span {
 	background-color: #9575cd;
 }
 
